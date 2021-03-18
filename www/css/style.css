@@ -1,0 +1,40 @@
+div.sinais button{
+     font-family: Helvetica;
+     font-size: 18px;
+     font-weight: bold;
+     line-height: 25px;
+     text-align: center;
+     padding: 17px 0px;
+     width: 70px;
+     color: white;
+     background: blueviolet;
+     border: groove 1px white;
+     border-radius: 15px;
+}
+div.input input{
+ width: 100%;
+ padding: 30px;
+ background: rgba(235, 231, 231, 0.425);
+ border: initial;
+ border-radius: 20px;
+}
+
+div.botoes button{
+   font-family: Helvetica;
+     font-size: 20px;
+     font-weight: bold;
+     line-height: 25px;
+     text-align: center;
+     padding: 15px 10px;
+     width: 120px;
+     background: crimson;
+     color: white;
+     border: groove 1px white;
+     border-radius: 15px;
+}
+
+div.botoes button.igual{
+  background-color:blueviolet;
+  border: groove 2px white;
+  font-size: 20px;
+}
